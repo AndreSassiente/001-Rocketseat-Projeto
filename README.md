@@ -1,3 +1,3 @@
 # 001-rocketseat
 
-Introdução a HTML/CSS
+Introdução a desenvolvimento web utilizando HTML e CSS.
